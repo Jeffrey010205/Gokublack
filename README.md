@@ -94,7 +94,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd Goku
+> cd Gokublack
 ```
 
 ```bash
@@ -107,7 +107,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd Gokublack
 ```
 
 ```bash
