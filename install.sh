@@ -233,7 +233,7 @@ menu() {
 }
 
 menu_ayuda() {
-    #printf "${v1}[${b}++${v1}]${v} HATSUNE-MIKU-ULTRA${b}: "
+    #printf "${v1}[${b}++${v1}]${v} Gokublack${b}: "
 	read opcion
 	case $opcion in
             01|1)
